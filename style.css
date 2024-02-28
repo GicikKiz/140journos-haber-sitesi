@@ -1,0 +1,31 @@
+nav{
+	background-color: #000000;
+	font-size: 13px;
+}
+
+
+ nav span{
+ 	margin-right: 10px;
+ }
+
+ nav .buton{
+ 	background-color: :#000000;
+ }
+
+.card-img-overlay{
+	position: absolute;
+	left:20px !important;
+	top: 150px !important;
+}
+
+ .card-img-overlay h1{
+font-size: 20px;
+
+ }
+
+.ustalansol{
+	margin-top: -5px !important;
+	padding: 0px !important;
+	z-index: -999;
+}
+
